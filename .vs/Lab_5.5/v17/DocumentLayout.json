@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_5.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03793C47-4A6C-4193-9505-AE3B60C9D1BE}|Lab_5.5.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_5.5\\Lab_5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03793C47-4A6C-4193-9505-AE3B60C9D1BE}|Lab_5.5.vcxproj|solutionrelative:Lab_5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8246BFEA-FC0E-4637-8EC5-D7E8F21C71E0}|..\\UnitTest2\\UnitTest2.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\UnitTest2\\UnitTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest2.cpp",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\UnitTest2\\UnitTest2.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest2\\UnitTest2.cpp",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\UnitTest2\\UnitTest2.cpp",
+              "RelativeToolTip": "..\\UnitTest2\\UnitTest2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T08:41:58.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_5.5.cpp",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_5.5\\Lab_5.5.cpp",
+              "RelativeDocumentMoniker": "Lab_5.5.cpp",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_5.5\\Lab_5.5.cpp",
+              "RelativeToolTip": "Lab_5.5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T11:02:08.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
